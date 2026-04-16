@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" width="100%" alt="Pixel Art Banner" style="border-radius: 15px;" />
+  <img src="https://media.giphy.com/media/GkD4U3VfiIbzcBhQNu/giphy.gif" alt="Pixel Art Banner" style="border-radius: 15px;" height="300" />
 </div>
 
 <br>
