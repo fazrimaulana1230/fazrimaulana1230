@@ -9,14 +9,14 @@
 <br>
 
 ## 📜 Status Karakter
-```text
-[  NAME ] Fazri Maulana
-[  LVL  ] 10 (Beginner Developer)
-[ CLASS ] Full-Stack Explorer
-[  HP   ] 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100/100 (Kopi Terisi Penuh)
-[  MP   ] 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50/50   (Siap Ngoding / Belajar)
-[ GUILD ] Institut Teknologi Bisnis Dan Bahasa Dian Cipta Cendikia
-```
+<pre>
+[  NAM ] [Nama Lengkap Kamu]
+[  LVL ] 10 (Beginner Developer)
+[ CLASS] Full-Stack Explorer
+[  HP  ] <img src="./hp_bar.svg" alt="HP Bar" height="18" style="vertical-align: text-bottom;"> 100/100 (Kopi Terisi Penuh)
+[  MP  ] <img src="./mp_bar.svg" alt="MP Bar" height="18" style="vertical-align: text-bottom;"> 50/50   (Siap Ngoding / Belajar)
+[ GUILD] [Sekolah/Kampus/Perusahaan]
+</pre>
 
 ## 🎒 Inventory (Tech Stack & Tools)
 *Item-item dan sihir yang digunakan saat berpetualang mencari bug...*
