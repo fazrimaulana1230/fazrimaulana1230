@@ -13,7 +13,7 @@
 ⭐ LEVEL | 10 (Beginner Developer)
 ⚔️ CLASS | Full-Stack Explorer
 ❤️ HP    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100/100 (Kopi Terisi Penuh)
-💧  MP    | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 50/50   (Siap Ngoding / Belajar)
+💧  MP    | 🟦🟦🟦🟦🟦             50/50   (Siap Ngoding / Belajar)
 🏰 GUILD | Institut Teknologi Bisnis Dan Bahasa Dian Cipta Cendikia
 ```
 
