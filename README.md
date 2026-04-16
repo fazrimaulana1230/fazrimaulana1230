@@ -33,7 +33,7 @@
 ## 🗺️ Buku Quest (Proyek / Portofolio)
 *Catatan perjalanan yang telah diselesaikan...*
 
-- 🗡️ **[Absensi Digital SMA]** - Membangun sistem kehadiran untuk membasmi murid bolos!
+- 🗡️ **[Absensi Digital SMA](https://github.com/fazrimaulana1230/Absensi-Digital)** - Membangun sistem kehadiran untuk membasmi murid bolos!
 
 ## 📊 Statistik Player
 
