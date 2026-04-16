@@ -1,5 +1,10 @@
-# ⚔️ Selamat Datang di Petualangan Fazri Maulana! ⚔️
+<div align="center">
+  <img src="https://media.tenor.com/VpZIOuNlGjUAAAAC/pixel-art.gif" width="100%" alt="Pixel Art Banner" style="border-radius: 15px;" />
+</div>
 
+<br>
+
+# ⚔️ Selamat Datang di Petualangan Fazri Maulana! ⚔️
 <div align="center">
   <img src="https://media.giphy.com/media/10yXFkBJ0MwGQ0/giphy.gif" width="200" alt="Pixel Art Character" />
   <br>
