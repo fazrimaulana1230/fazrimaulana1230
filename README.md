@@ -34,7 +34,7 @@
 *Catatan perjalanan yang telah diselesaikan...*
 
 - 🗡️ **[Absensi Digital SMA V3](https://github.com/fazrimaulana1230/Absensi-Digital)** - Membangun sistem kehadiran untuk membasmi murid bolos!
-- 📜 **[TOEFL Desktop App](https://github.com/fazrimaulana1230/toefl-desktop-app)** - Aplikasi simulasi tes TOEFL berbasis desktop untuk meningkatkan skill bahasamu!
+- 📜 **[TOEFL Desktop App](https://github.com/fazrimaulana1230/toefl-desktop-app)**    - Aplikasi simulasi tes TOEFL berbasis desktop untuk meningkatkan skill bahasamu!
 
 ## 📊 Statistik Player
 
